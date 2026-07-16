@@ -1,0 +1,56 @@
+{
+  "system_ledger": [
+    {
+      "txn_id": "1001",
+      "amount": "250.00",
+      "category": "payroll"
+    },
+    {
+      "txn_id": "1002",
+      "amount": "80.50",
+      "category": "utilities"
+    },
+    {
+      "txn_id": "1003",
+      "amount": "1200.00",
+      "category": "rent"
+    },
+    {
+      "txn_id": "1004",
+      "amount": "45.00",
+      "category": "office_supplies"
+    },
+    {
+      "txn_id": "1005",
+      "amount": "320.75",
+      "category": "software"
+    }
+  ],
+  "bank_ledger": [
+    {
+      "txn_id": "1001",
+      "amount": "250.00",
+      "category": "payroll"
+    },
+    {
+      "txn_id": "1002",
+      "amount": "82.00",
+      "category": "utilities"
+    },
+    {
+      "txn_id": "1003",
+      "amount": "1200.00",
+      "category": "rent"
+    },
+    {
+      "txn_id": "1005",
+      "amount": "320.75",
+      "category": "software"
+    },
+    {
+      "txn_id": "1006",
+      "amount": "155.00",
+      "category": "travel"
+    }
+  ]
+}

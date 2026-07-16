@@ -1,0 +1,34 @@
+{
+  "players": [
+    {
+      "player_name": "Mike",
+      "scoring_class": "Star",
+      "is_active": "true",
+      "season": "2018"
+    },
+    {
+      "player_name": "Mike",
+      "scoring_class": "Star",
+      "is_active": "true",
+      "season": "2019"
+    },
+    {
+      "player_name": "Mike",
+      "scoring_class": "Good",
+      "is_active": "true",
+      "season": "2020"
+    },
+    {
+      "player_name": "Mike",
+      "scoring_class": "Good",
+      "is_active": "false",
+      "season": "2021"
+    },
+    {
+      "player_name": "Mike",
+      "scoring_class": "Good",
+      "is_active": "true",
+      "season": "2022"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "products_with_arrays": [
+    {
+      "product_id": "1",
+      "product_name": "Laptop",
+      "tags": "electronics,portable,computing"
+    },
+    {
+      "product_id": "2",
+      "product_name": "Headphones",
+      "tags": "electronics,audio,wireless"
+    },
+    {
+      "product_id": "3",
+      "product_name": "Running Shoes",
+      "tags": "footwear,sports,outdoor"
+    },
+    {
+      "product_id": "4",
+      "product_name": "Coffee Maker",
+      "tags": "kitchen,appliance"
+    },
+    {
+      "product_id": "5",
+      "product_name": "Yoga Mat",
+      "tags": "sports,fitness,outdoor"
+    }
+  ]
+}

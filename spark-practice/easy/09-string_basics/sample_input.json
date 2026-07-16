@@ -1,0 +1,39 @@
+{
+  "customers": [
+    {
+      "customer_id": "1",
+      "first_name": "  alice  ",
+      "last_name": "Smith",
+      "email": "alice@example.com",
+      "city": "new york"
+    },
+    {
+      "customer_id": "2",
+      "first_name": "BOB",
+      "last_name": "johnson",
+      "email": "BOB@EXAMPLE.COM",
+      "city": "  London"
+    },
+    {
+      "customer_id": "3",
+      "first_name": "Charlie",
+      "last_name": "  BROWN  ",
+      "email": "charlie@example.com",
+      "city": "paris"
+    },
+    {
+      "customer_id": "4",
+      "first_name": "diana",
+      "last_name": "Williams",
+      "email": "diana@example.com",
+      "city": "BERLIN"
+    },
+    {
+      "customer_id": "5",
+      "first_name": "  EVE  ",
+      "last_name": "Davis",
+      "email": "eve@example.com",
+      "city": "tokyo"
+    }
+  ]
+}

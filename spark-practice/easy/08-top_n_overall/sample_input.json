@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "product_id": "1",
+      "product_name": "Laptop Pro",
+      "category": "Electronics",
+      "total_sales": "45000"
+    },
+    {
+      "product_id": "2",
+      "product_name": "Wireless Mouse",
+      "category": "Electronics",
+      "total_sales": "8500"
+    },
+    {
+      "product_id": "3",
+      "product_name": "Standing Desk",
+      "category": "Furniture",
+      "total_sales": "32000"
+    },
+    {
+      "product_id": "4",
+      "product_name": "USB Hub",
+      "category": "Electronics",
+      "total_sales": "4200"
+    },
+    {
+      "product_id": "5",
+      "product_name": "Office Chair",
+      "category": "Furniture",
+      "total_sales": "28000"
+    }
+  ]
+}

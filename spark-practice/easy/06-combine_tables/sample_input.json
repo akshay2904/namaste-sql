@@ -1,0 +1,54 @@
+{
+  "orders_2023": [
+    {
+      "order_id": "1",
+      "customer_id": "101",
+      "amount": "500",
+      "year": "2023"
+    },
+    {
+      "order_id": "2",
+      "customer_id": "102",
+      "amount": "800",
+      "year": "2023"
+    },
+    {
+      "order_id": "3",
+      "customer_id": "103",
+      "amount": "300",
+      "year": "2023"
+    },
+    {
+      "order_id": "4",
+      "customer_id": "101",
+      "amount": "650",
+      "year": "2023"
+    }
+  ],
+  "orders_2024": [
+    {
+      "order_id": "5",
+      "customer_id": "102",
+      "amount": "900",
+      "year": "2024"
+    },
+    {
+      "order_id": "6",
+      "customer_id": "104",
+      "amount": "450",
+      "year": "2024"
+    },
+    {
+      "order_id": "7",
+      "customer_id": "101",
+      "amount": "700",
+      "year": "2024"
+    },
+    {
+      "order_id": "8",
+      "customer_id": "105",
+      "amount": "1200",
+      "year": "2024"
+    }
+  ]
+}

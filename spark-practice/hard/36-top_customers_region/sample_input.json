@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "customer_id": "1",
+      "name": "Alice",
+      "region": "North",
+      "total_spend": "4500"
+    },
+    {
+      "customer_id": "2",
+      "name": "Bob",
+      "region": "North",
+      "total_spend": "7200"
+    },
+    {
+      "customer_id": "3",
+      "name": "Carol",
+      "region": "North",
+      "total_spend": "3100"
+    },
+    {
+      "customer_id": "4",
+      "name": "Dave",
+      "region": "North",
+      "total_spend": "8900"
+    },
+    {
+      "customer_id": "5",
+      "name": "Eve",
+      "region": "North",
+      "total_spend": "6300"
+    }
+  ]
+}

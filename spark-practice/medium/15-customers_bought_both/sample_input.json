@@ -1,0 +1,29 @@
+{
+  "orders": [
+    {
+      "order_id": "1",
+      "customer_id": "1",
+      "product": "Laptop"
+    },
+    {
+      "order_id": "2",
+      "customer_id": "2",
+      "product": "Phone"
+    },
+    {
+      "order_id": "3",
+      "customer_id": "1",
+      "product": "Phone"
+    },
+    {
+      "order_id": "4",
+      "customer_id": "3",
+      "product": "Laptop"
+    },
+    {
+      "order_id": "5",
+      "customer_id": "4",
+      "product": "Phone"
+    }
+  ]
+}

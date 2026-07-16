@@ -1,0 +1,44 @@
+{
+  "employee_history": [
+    {
+      "record_id": "1",
+      "employee_id": "101",
+      "name": "Alice Chen",
+      "department": "Engineering",
+      "salary": "80000",
+      "effective_date": "2022-01-01"
+    },
+    {
+      "record_id": "2",
+      "employee_id": "101",
+      "name": "Alice Chen",
+      "department": "Engineering",
+      "salary": "85000",
+      "effective_date": "2022-07-01"
+    },
+    {
+      "record_id": "3",
+      "employee_id": "101",
+      "name": "Alice Chen",
+      "department": "Data Science",
+      "salary": "90000",
+      "effective_date": "2023-01-01"
+    },
+    {
+      "record_id": "4",
+      "employee_id": "102",
+      "name": "Bob Kim",
+      "department": "Marketing",
+      "salary": "70000",
+      "effective_date": "2022-03-01"
+    },
+    {
+      "record_id": "5",
+      "employee_id": "102",
+      "name": "Bob Kim",
+      "department": "Marketing",
+      "salary": "73000",
+      "effective_date": "2022-09-01"
+    }
+  ]
+}

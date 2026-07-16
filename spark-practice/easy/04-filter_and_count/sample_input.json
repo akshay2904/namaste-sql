@@ -1,0 +1,39 @@
+{
+  "orders": [
+    {
+      "order_id": "1",
+      "customer_id": "1",
+      "product": "Laptop",
+      "country": "USA",
+      "amount": "1200"
+    },
+    {
+      "order_id": "2",
+      "customer_id": "2",
+      "product": "Phone",
+      "country": "UK",
+      "amount": "800"
+    },
+    {
+      "order_id": "3",
+      "customer_id": "1",
+      "product": "Tablet",
+      "country": "USA",
+      "amount": "500"
+    },
+    {
+      "order_id": "4",
+      "customer_id": "3",
+      "product": "Laptop",
+      "country": "Canada",
+      "amount": "1200"
+    },
+    {
+      "order_id": "5",
+      "customer_id": "2",
+      "product": "Laptop",
+      "country": "UK",
+      "amount": "1200"
+    }
+  ]
+}

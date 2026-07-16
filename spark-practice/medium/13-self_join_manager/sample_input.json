@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "employee_id": "1",
+      "name": "Alice",
+      "department": "Engineering",
+      "manager_id": ""
+    },
+    {
+      "employee_id": "2",
+      "name": "Bob",
+      "department": "Engineering",
+      "manager_id": "1"
+    },
+    {
+      "employee_id": "3",
+      "name": "Charlie",
+      "department": "Engineering",
+      "manager_id": "1"
+    },
+    {
+      "employee_id": "4",
+      "name": "Diana",
+      "department": "Marketing",
+      "manager_id": ""
+    },
+    {
+      "employee_id": "5",
+      "name": "Eve",
+      "department": "Marketing",
+      "manager_id": "4"
+    }
+  ]
+}

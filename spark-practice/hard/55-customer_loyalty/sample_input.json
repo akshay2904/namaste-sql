@@ -1,0 +1,61 @@
+{
+  "orders": [
+    {
+      "order_id": "1",
+      "customer_id": "1",
+      "amount": "120",
+      "order_date": "2024-01-05"
+    },
+    {
+      "order_id": "2",
+      "customer_id": "1",
+      "amount": "85",
+      "order_date": "2024-01-12"
+    },
+    {
+      "order_id": "3",
+      "customer_id": "1",
+      "amount": "200",
+      "order_date": "2024-01-20"
+    },
+    {
+      "order_id": "4",
+      "customer_id": "2",
+      "amount": "50",
+      "order_date": "2024-01-03"
+    },
+    {
+      "order_id": "5",
+      "customer_id": "2",
+      "amount": "75",
+      "order_date": "2024-01-14"
+    }
+  ],
+  "ratings": [
+    {
+      "rating_id": "1",
+      "customer_id": "1",
+      "score": "4"
+    },
+    {
+      "rating_id": "2",
+      "customer_id": "1",
+      "score": "5"
+    },
+    {
+      "rating_id": "3",
+      "customer_id": "2",
+      "score": "3"
+    },
+    {
+      "rating_id": "4",
+      "customer_id": "2",
+      "score": "4"
+    },
+    {
+      "rating_id": "5",
+      "customer_id": "3",
+      "score": "5"
+    }
+  ]
+}

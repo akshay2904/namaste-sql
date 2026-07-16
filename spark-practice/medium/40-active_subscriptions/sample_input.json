@@ -1,0 +1,39 @@
+{
+  "subscriptions": [
+    {
+      "sub_id": "1",
+      "customer_id": "201",
+      "start_date": "2024-01-01",
+      "end_date": "2024-12-31",
+      "plan": "annual"
+    },
+    {
+      "sub_id": "2",
+      "customer_id": "202",
+      "start_date": "2024-03-15",
+      "end_date": "2024-09-14",
+      "plan": "semi-annual"
+    },
+    {
+      "sub_id": "3",
+      "customer_id": "203",
+      "start_date": "2024-05-01",
+      "end_date": "2024-07-31",
+      "plan": "quarterly"
+    },
+    {
+      "sub_id": "4",
+      "customer_id": "204",
+      "start_date": "2024-06-01",
+      "end_date": "2024-08-31",
+      "plan": "quarterly"
+    },
+    {
+      "sub_id": "5",
+      "customer_id": "205",
+      "start_date": "2024-06-15",
+      "end_date": "2024-09-15",
+      "plan": "quarterly"
+    }
+  ]
+}

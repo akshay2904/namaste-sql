@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "contact_id": "1",
+      "name": "Alice Johnson",
+      "phone": "(555) 123-4567"
+    },
+    {
+      "contact_id": "2",
+      "name": "Bob Smith",
+      "phone": "555-234-5678"
+    },
+    {
+      "contact_id": "3",
+      "name": "Carol White",
+      "phone": "5553456789"
+    },
+    {
+      "contact_id": "4",
+      "name": "Dave Brown",
+      "phone": "555.456.7890"
+    },
+    {
+      "contact_id": "5",
+      "name": "Eve Davis",
+      "phone": "(555) 567-8901"
+    }
+  ]
+}

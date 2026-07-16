@@ -1,0 +1,29 @@
+{
+  "reviews": [
+    {
+      "review_id": "1",
+      "product_id": "101",
+      "review_text": "great product love quality great packaging great delivery"
+    },
+    {
+      "review_id": "2",
+      "product_id": "101",
+      "review_text": "love product amazing quality product works great"
+    },
+    {
+      "review_id": "3",
+      "product_id": "102",
+      "review_text": "product quality excellent love packaging excellent"
+    },
+    {
+      "review_id": "4",
+      "product_id": "102",
+      "review_text": "quality product amazing delivery love great product"
+    },
+    {
+      "review_id": "5",
+      "product_id": "103",
+      "review_text": "excellent product love quality delivery fast amazing"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "user_activity": [
+    {
+      "user_id": "1",
+      "activity_date": "2024-01-05",
+      "action": "login"
+    },
+    {
+      "user_id": "2",
+      "activity_date": "2024-01-07",
+      "action": "login"
+    },
+    {
+      "user_id": "3",
+      "activity_date": "2024-01-10",
+      "action": "purchase"
+    },
+    {
+      "user_id": "1",
+      "activity_date": "2024-01-15",
+      "action": "purchase"
+    },
+    {
+      "user_id": "4",
+      "activity_date": "2024-01-20",
+      "action": "login"
+    }
+  ]
+}

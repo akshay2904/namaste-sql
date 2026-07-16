@@ -1,0 +1,29 @@
+{
+  "stock_prices": [
+    {
+      "price_date": "2024-01-01",
+      "stock": "AAPL",
+      "close_price": "185.20"
+    },
+    {
+      "price_date": "2024-01-02",
+      "stock": "AAPL",
+      "close_price": "186.50"
+    },
+    {
+      "price_date": "2024-01-03",
+      "stock": "AAPL",
+      "close_price": "184.80"
+    },
+    {
+      "price_date": "2024-01-04",
+      "stock": "AAPL",
+      "close_price": "188.00"
+    },
+    {
+      "price_date": "2024-01-05",
+      "stock": "AAPL",
+      "close_price": "190.30"
+    }
+  ]
+}

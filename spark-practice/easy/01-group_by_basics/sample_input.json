@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "customer_id": "1",
+      "amount": "100"
+    },
+    {
+      "customer_id": "2",
+      "amount": "200"
+    },
+    {
+      "customer_id": "1",
+      "amount": "150"
+    },
+    {
+      "customer_id": "3",
+      "amount": "300"
+    },
+    {
+      "customer_id": "2",
+      "amount": "50"
+    }
+  ]
+}

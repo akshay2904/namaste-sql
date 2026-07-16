@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "employee_id": "1",
+      "name": "Alice",
+      "department": "Engineering",
+      "salary": "95000"
+    },
+    {
+      "employee_id": "2",
+      "name": "Bob",
+      "department": "Engineering",
+      "salary": "88000"
+    },
+    {
+      "employee_id": "3",
+      "name": "Carol",
+      "department": "Engineering",
+      "salary": "95000"
+    },
+    {
+      "employee_id": "4",
+      "name": "Dave",
+      "department": "Engineering",
+      "salary": "72000"
+    },
+    {
+      "employee_id": "5",
+      "name": "Eve",
+      "department": "Marketing",
+      "salary": "70000"
+    }
+  ]
+}

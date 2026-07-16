@@ -1,0 +1,61 @@
+{
+  "orders": [
+    {
+      "order_id": "1",
+      "customer_id": "1",
+      "amount": "500",
+      "status": "completed"
+    },
+    {
+      "order_id": "2",
+      "customer_id": "2",
+      "amount": "800",
+      "status": "completed"
+    },
+    {
+      "order_id": "3",
+      "customer_id": "3",
+      "amount": "300",
+      "status": "pending"
+    },
+    {
+      "order_id": "4",
+      "customer_id": "1",
+      "amount": "650",
+      "status": "completed"
+    },
+    {
+      "order_id": "5",
+      "customer_id": "4",
+      "amount": "900",
+      "status": "completed"
+    }
+  ],
+  "customers": [
+    {
+      "customer_id": "1",
+      "name": "Alice",
+      "city": "New York"
+    },
+    {
+      "customer_id": "2",
+      "name": "Bob",
+      "city": "London"
+    },
+    {
+      "customer_id": "3",
+      "name": "Charlie",
+      "city": "Paris"
+    },
+    {
+      "customer_id": "4",
+      "name": "Diana",
+      "city": "Berlin"
+    },
+    {
+      "customer_id": "5",
+      "name": "Eve",
+      "city": "Tokyo"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "scores": [
+    {
+      "student_id": "1",
+      "name": "Alice",
+      "subject": "Math",
+      "score": "95"
+    },
+    {
+      "student_id": "2",
+      "name": "Bob",
+      "subject": "Math",
+      "score": "88"
+    },
+    {
+      "student_id": "3",
+      "name": "Carol",
+      "subject": "Math",
+      "score": "95"
+    },
+    {
+      "student_id": "4",
+      "name": "Dave",
+      "subject": "Math",
+      "score": "72"
+    },
+    {
+      "student_id": "5",
+      "name": "Eve",
+      "subject": "Math",
+      "score": "88"
+    }
+  ]
+}

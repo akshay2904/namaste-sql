@@ -1,0 +1,29 @@
+{
+  "user_activity": [
+    {
+      "user_id": "1",
+      "signup_date": "2024-01-05",
+      "activity_date": "2024-01-10"
+    },
+    {
+      "user_id": "1",
+      "signup_date": "2024-01-05",
+      "activity_date": "2024-02-15"
+    },
+    {
+      "user_id": "1",
+      "signup_date": "2024-01-05",
+      "activity_date": "2024-03-20"
+    },
+    {
+      "user_id": "1",
+      "signup_date": "2024-01-05",
+      "activity_date": "2024-04-08"
+    },
+    {
+      "user_id": "2",
+      "signup_date": "2024-01-12",
+      "activity_date": "2024-01-20"
+    }
+  ]
+}

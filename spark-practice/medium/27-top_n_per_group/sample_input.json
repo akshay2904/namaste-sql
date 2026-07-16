@@ -1,0 +1,29 @@
+{
+  "employees": [
+    {
+      "department": "Engineering",
+      "employee": "Alice",
+      "salary": "95000"
+    },
+    {
+      "department": "Engineering",
+      "employee": "Bob",
+      "salary": "88000"
+    },
+    {
+      "department": "Engineering",
+      "employee": "Charlie",
+      "salary": "102000"
+    },
+    {
+      "department": "Engineering",
+      "employee": "Diana",
+      "salary": "91000"
+    },
+    {
+      "department": "Marketing",
+      "employee": "Eve",
+      "salary": "75000"
+    }
+  ]
+}

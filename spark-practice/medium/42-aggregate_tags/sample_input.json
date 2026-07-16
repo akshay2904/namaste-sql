@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "product_id": "1",
+      "product_name": "Laptop",
+      "tag": "electronics"
+    },
+    {
+      "product_id": "1",
+      "product_name": "Laptop",
+      "tag": "portable"
+    },
+    {
+      "product_id": "1",
+      "product_name": "Laptop",
+      "tag": "computing"
+    },
+    {
+      "product_id": "2",
+      "product_name": "Headphones",
+      "tag": "electronics"
+    },
+    {
+      "product_id": "2",
+      "product_name": "Headphones",
+      "tag": "audio"
+    }
+  ]
+}

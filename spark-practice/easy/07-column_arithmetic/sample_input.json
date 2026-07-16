@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "product_id": "1",
+      "product_name": "Laptop",
+      "price": "1200",
+      "quantity": "5",
+      "discount_pct": "10"
+    },
+    {
+      "product_id": "2",
+      "product_name": "Phone",
+      "price": "800",
+      "quantity": "12",
+      "discount_pct": "15"
+    },
+    {
+      "product_id": "3",
+      "product_name": "Tablet",
+      "price": "500",
+      "quantity": "8",
+      "discount_pct": "5"
+    },
+    {
+      "product_id": "4",
+      "product_name": "Monitor",
+      "price": "950",
+      "quantity": "3",
+      "discount_pct": "20"
+    },
+    {
+      "product_id": "5",
+      "product_name": "Keyboard",
+      "price": "120",
+      "quantity": "25",
+      "discount_pct": "0"
+    }
+  ]
+}

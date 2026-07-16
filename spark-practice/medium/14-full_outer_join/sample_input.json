@@ -1,0 +1,51 @@
+{
+  "employees": [
+    {
+      "employee_id": "1",
+      "name": "Alice",
+      "department_id": "10"
+    },
+    {
+      "employee_id": "2",
+      "name": "Bob",
+      "department_id": "20"
+    },
+    {
+      "employee_id": "3",
+      "name": "Charlie",
+      "department_id": "10"
+    },
+    {
+      "employee_id": "4",
+      "name": "Diana",
+      "department_id": "30"
+    },
+    {
+      "employee_id": "5",
+      "name": "Eve",
+      "department_id": "40"
+    }
+  ],
+  "departments": [
+    {
+      "department_id": "10",
+      "department_name": "Engineering",
+      "budget": "500000"
+    },
+    {
+      "department_id": "20",
+      "department_name": "Marketing",
+      "budget": "300000"
+    },
+    {
+      "department_id": "50",
+      "department_name": "Finance",
+      "budget": "400000"
+    },
+    {
+      "department_id": "60",
+      "department_name": "HR",
+      "budget": "200000"
+    }
+  ]
+}

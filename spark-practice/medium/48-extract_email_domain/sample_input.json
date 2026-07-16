@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "user_id": "1",
+      "name": "Alice Johnson",
+      "email": "alice@gmail.com"
+    },
+    {
+      "user_id": "2",
+      "name": "Bob Smith",
+      "email": "bob.smith@yahoo.com"
+    },
+    {
+      "user_id": "3",
+      "name": "Carol White",
+      "email": "carol@company.org"
+    },
+    {
+      "user_id": "4",
+      "name": "Dave Brown",
+      "email": "dave@hotmail.com"
+    },
+    {
+      "user_id": "5",
+      "name": "Eve Davis",
+      "email": "eve.davis@outlook.com"
+    }
+  ]
+}

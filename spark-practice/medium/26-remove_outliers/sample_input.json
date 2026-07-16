@@ -1,0 +1,24 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "1",
+      "amount": "50"
+    },
+    {
+      "transaction_id": "2",
+      "amount": "55"
+    },
+    {
+      "transaction_id": "3",
+      "amount": "48"
+    },
+    {
+      "transaction_id": "4",
+      "amount": "62"
+    },
+    {
+      "transaction_id": "5",
+      "amount": "57"
+    }
+  ]
+}

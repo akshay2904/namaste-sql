@@ -1,0 +1,66 @@
+{
+  "products": [
+    {
+      "product_id": "1",
+      "product_name": "Laptop",
+      "category": "Electronics",
+      "price": "1200"
+    },
+    {
+      "product_id": "2",
+      "product_name": "Phone",
+      "category": "Electronics",
+      "price": "800"
+    },
+    {
+      "product_id": "3",
+      "product_name": "Tablet",
+      "category": "Electronics",
+      "price": "500"
+    },
+    {
+      "product_id": "4",
+      "product_name": "Monitor",
+      "category": "Electronics",
+      "price": "950"
+    },
+    {
+      "product_id": "5",
+      "product_name": "Keyboard",
+      "category": "Accessories",
+      "price": "120"
+    }
+  ],
+  "sales": [
+    {
+      "sale_id": "1",
+      "product_id": "1",
+      "quantity": "2",
+      "sale_date": "2024-01-01"
+    },
+    {
+      "sale_id": "2",
+      "product_id": "2",
+      "quantity": "5",
+      "sale_date": "2024-01-02"
+    },
+    {
+      "sale_id": "3",
+      "product_id": "3",
+      "quantity": "1",
+      "sale_date": "2024-01-03"
+    },
+    {
+      "sale_id": "4",
+      "product_id": "1",
+      "quantity": "3",
+      "sale_date": "2024-01-04"
+    },
+    {
+      "sale_id": "5",
+      "product_id": "5",
+      "quantity": "10",
+      "sale_date": "2024-01-05"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "orders": [
+    {
+      "order_id": "1",
+      "customer_name": "Alice Johnson",
+      "address": "{\"street\":\"123 Main St\",\"city\":\"New York\",\"zip\":\"10001\"}",
+      "items_count": "3"
+    },
+    {
+      "order_id": "2",
+      "customer_name": "Bob Smith",
+      "address": "{\"street\":\"456 Oak Ave\",\"city\":\"Chicago\",\"zip\":\"60601\"}",
+      "items_count": "1"
+    },
+    {
+      "order_id": "3",
+      "customer_name": "Carol White",
+      "address": "{\"street\":\"789 Pine Rd\",\"city\":\"Los Angeles\",\"zip\":\"90001\"}",
+      "items_count": "5"
+    },
+    {
+      "order_id": "4",
+      "customer_name": "Dave Brown",
+      "address": "{\"street\":\"321 Elm St\",\"city\":\"Houston\",\"zip\":\"77001\"}",
+      "items_count": "2"
+    },
+    {
+      "order_id": "5",
+      "customer_name": "Eve Davis",
+      "address": "{\"street\":\"654 Maple Dr\",\"city\":\"Phoenix\",\"zip\":\"85001\"}",
+      "items_count": "4"
+    }
+  ]
+}

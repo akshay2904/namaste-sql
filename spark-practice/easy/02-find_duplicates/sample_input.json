@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "email": "alice@example.com",
+      "name": "Alice",
+      "signup_date": "2024-01-01"
+    },
+    {
+      "email": "bob@example.com",
+      "name": "Bob",
+      "signup_date": "2024-01-02"
+    },
+    {
+      "email": "alice@example.com",
+      "name": "Alice Smith",
+      "signup_date": "2024-01-03"
+    },
+    {
+      "email": "charlie@example.com",
+      "name": "Charlie",
+      "signup_date": "2024-01-04"
+    },
+    {
+      "email": "bob@example.com",
+      "name": "Bobby",
+      "signup_date": "2024-01-05"
+    }
+  ]
+}

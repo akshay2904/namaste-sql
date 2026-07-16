@@ -1,0 +1,29 @@
+{
+  "orders": [
+    {
+      "order_id": "1",
+      "category": "Electronics",
+      "amount": "1200"
+    },
+    {
+      "order_id": "2",
+      "category": "Clothing",
+      "amount": "800"
+    },
+    {
+      "order_id": "3",
+      "category": "Electronics",
+      "amount": "500"
+    },
+    {
+      "order_id": "4",
+      "category": "Furniture",
+      "amount": "950"
+    },
+    {
+      "order_id": "5",
+      "category": "Clothing",
+      "amount": "300"
+    }
+  ]
+}

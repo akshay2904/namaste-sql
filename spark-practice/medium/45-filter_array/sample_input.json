@@ -1,0 +1,29 @@
+{
+  "user_interests": [
+    {
+      "user_id": "1",
+      "name": "Alice",
+      "interests": "Technology,Sports,Music"
+    },
+    {
+      "user_id": "2",
+      "name": "Bob",
+      "interests": "Cooking,Travel"
+    },
+    {
+      "user_id": "3",
+      "name": "Carol",
+      "interests": "Technology,Art,Cooking"
+    },
+    {
+      "user_id": "4",
+      "name": "Dave",
+      "interests": "Sports,Gaming"
+    },
+    {
+      "user_id": "5",
+      "name": "Eve",
+      "interests": "Technology,Finance,Travel"
+    }
+  ]
+}

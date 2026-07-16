@@ -1,0 +1,34 @@
+{
+  "sales_reps": [
+    {
+      "rep_id": "1",
+      "name": "Alice",
+      "region": "North",
+      "total_sales": "82000"
+    },
+    {
+      "rep_id": "2",
+      "name": "Bob",
+      "region": "North",
+      "total_sales": "95000"
+    },
+    {
+      "rep_id": "3",
+      "name": "Carol",
+      "region": "North",
+      "total_sales": "71000"
+    },
+    {
+      "rep_id": "4",
+      "name": "Dave",
+      "region": "North",
+      "total_sales": "110000"
+    },
+    {
+      "rep_id": "5",
+      "name": "Eve",
+      "region": "South",
+      "total_sales": "63000"
+    }
+  ]
+}

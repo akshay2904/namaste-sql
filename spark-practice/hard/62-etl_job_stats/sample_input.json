@@ -1,0 +1,49 @@
+{
+  "etl_jobs": [
+    {
+      "job_id": "1",
+      "job_name": "ingest_customers",
+      "pipeline": "pipeline_a",
+      "start_time": "2024-01-01 08:00:00",
+      "end_time": "2024-01-01 08:05:30",
+      "status": "success",
+      "rows_processed": "10000"
+    },
+    {
+      "job_id": "2",
+      "job_name": "transform_orders",
+      "pipeline": "pipeline_a",
+      "start_time": "2024-01-01 09:00:00",
+      "end_time": "2024-01-01 09:12:00",
+      "status": "success",
+      "rows_processed": "25000"
+    },
+    {
+      "job_id": "3",
+      "job_name": "load_warehouse",
+      "pipeline": "pipeline_a",
+      "start_time": "2024-01-01 10:00:00",
+      "end_time": "2024-01-01 10:03:00",
+      "status": "failed",
+      "rows_processed": "0"
+    },
+    {
+      "job_id": "4",
+      "job_name": "ingest_products",
+      "pipeline": "pipeline_b",
+      "start_time": "2024-01-02 08:00:00",
+      "end_time": "2024-01-02 08:02:45",
+      "status": "success",
+      "rows_processed": "5000"
+    },
+    {
+      "job_id": "5",
+      "job_name": "transform_inventory",
+      "pipeline": "pipeline_b",
+      "start_time": "2024-01-02 09:00:00",
+      "end_time": "2024-01-02 09:08:20",
+      "status": "success",
+      "rows_processed": "12000"
+    }
+  ]
+}

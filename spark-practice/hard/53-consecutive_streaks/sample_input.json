@@ -1,0 +1,29 @@
+{
+  "attendance": [
+    {
+      "employee_id": "1",
+      "attendance_date": "2024-01-01",
+      "status": "Present"
+    },
+    {
+      "employee_id": "1",
+      "attendance_date": "2024-01-02",
+      "status": "Present"
+    },
+    {
+      "employee_id": "1",
+      "attendance_date": "2024-01-03",
+      "status": "Present"
+    },
+    {
+      "employee_id": "1",
+      "attendance_date": "2024-01-04",
+      "status": "Absent"
+    },
+    {
+      "employee_id": "1",
+      "attendance_date": "2024-01-05",
+      "status": "Present"
+    }
+  ]
+}

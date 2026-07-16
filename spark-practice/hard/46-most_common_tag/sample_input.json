@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "article_id": "1",
+      "title": "Introduction to Spark",
+      "category": "Data Engineering",
+      "tags": "spark,big-data,distributed"
+    },
+    {
+      "article_id": "2",
+      "title": "Python for Data Science",
+      "category": "Machine Learning",
+      "tags": "python,data-science,ml"
+    },
+    {
+      "article_id": "3",
+      "title": "Deep Learning Basics",
+      "category": "Machine Learning",
+      "tags": "ml,deep-learning,python"
+    },
+    {
+      "article_id": "4",
+      "title": "Spark Streaming Guide",
+      "category": "Data Engineering",
+      "tags": "spark,streaming,big-data"
+    },
+    {
+      "article_id": "5",
+      "title": "SQL vs NoSQL",
+      "category": "Data Engineering",
+      "tags": "sql,databases,big-data"
+    }
+  ]
+}

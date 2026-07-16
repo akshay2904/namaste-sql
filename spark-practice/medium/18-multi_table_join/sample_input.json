@@ -1,0 +1,73 @@
+{
+  "orders": [
+    {
+      "order_id": "1",
+      "customer_id": "1",
+      "product_id": "101",
+      "quantity": "2"
+    },
+    {
+      "order_id": "2",
+      "customer_id": "1",
+      "product_id": "102",
+      "quantity": "1"
+    },
+    {
+      "order_id": "3",
+      "customer_id": "2",
+      "product_id": "101",
+      "quantity": "3"
+    },
+    {
+      "order_id": "4",
+      "customer_id": "3",
+      "product_id": "103",
+      "quantity": "1"
+    },
+    {
+      "order_id": "5",
+      "customer_id": "2",
+      "product_id": "103",
+      "quantity": "2"
+    }
+  ],
+  "customers": [
+    {
+      "customer_id": "1",
+      "name": "Alice",
+      "city": "New York"
+    },
+    {
+      "customer_id": "2",
+      "name": "Bob",
+      "city": "San Francisco"
+    },
+    {
+      "customer_id": "3",
+      "name": "Charlie",
+      "city": "Chicago"
+    },
+    {
+      "customer_id": "4",
+      "name": "Diana",
+      "city": "New York"
+    }
+  ],
+  "products": [
+    {
+      "product_id": "101",
+      "product_name": "Laptop",
+      "price": "1200"
+    },
+    {
+      "product_id": "102",
+      "product_name": "Phone",
+      "price": "800"
+    },
+    {
+      "product_id": "103",
+      "product_name": "Tablet",
+      "price": "500"
+    }
+  ]
+}

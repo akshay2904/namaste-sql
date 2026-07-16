@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "customer_id": "1",
+      "name": "Alice Johnson",
+      "email": "alice@gmail.com",
+      "phone": "555-123-4567"
+    },
+    {
+      "customer_id": "2",
+      "name": "Bob Smith",
+      "email": "bob.smith@yahoo.com",
+      "phone": "555-987-6543"
+    },
+    {
+      "customer_id": "3",
+      "name": "Carol White",
+      "email": "carol@company.org",
+      "phone": "555-234-5678"
+    },
+    {
+      "customer_id": "4",
+      "name": "Dave Brown",
+      "email": "dave@hotmail.com",
+      "phone": "555-876-5432"
+    },
+    {
+      "customer_id": "5",
+      "name": "Eve Davis",
+      "email": "eve.davis@outlook.com",
+      "phone": "555-345-6789"
+    }
+  ]
+}
