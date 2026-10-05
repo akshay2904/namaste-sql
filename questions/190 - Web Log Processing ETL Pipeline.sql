@@ -176,7 +176,7 @@ SELECT
   session_end_time,
   session_duration,
   total_events,
-  unique_pages_visited,
+  unique_pages_visited,are you sure 
   device_type
 FROM session_metrics
 ORDER BY user_id, session_id;

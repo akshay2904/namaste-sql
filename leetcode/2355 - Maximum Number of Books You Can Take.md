@@ -1,0 +1,25 @@
+# 2355. Maximum Number of Books You Can Take
+
+**Difficulty:** Hard
+**Tags:** Array, Dynamic Programming, Stack, Monotonic Stack
+**Acceptance Rate:** 39.5%
+**Access:** Premium
+**URL:** https://leetcode.com/problems/maximum-number-of-books-you-can-take/
+
+---
+
+_Problem description unavailable (Premium required)._
+
+**Hints:**
+1. Create a dp array where dp[i] is the maximum number of books you can take if you can only take books from bookshelves 0 to i and you must take books from bookshelf i.
+2. Keep taking as many books as you can (i.e. starting from bookshelf i and going backwards, you take arr[i], arr[i] - 1, arr[i] - 2, … books).
+3. You may reach an index j where arr[j] < arr[i] - (i - j). Have we already found the maximum number of books you can take from bookshelves 0 to j? How do we quickly find such an index j?
+4. Keep a stack of possible indices for j. If x is the number at the top of the stack, keep popping from the stack while arr[x] ≥ arr[i] - (i - x). This is because if the inequality mentioned before is true, x will never be an index j as index i will run out of items first.
+
+---
+
+## Solution
+
+```python
+
+```

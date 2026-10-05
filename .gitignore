@@ -1,2 +1,6 @@
 .llm_keys
 __pycache__/
+.claude/
+.vscode/
+namaste-sql-repo/
+*_dump.html
