@@ -164,7 +164,7 @@ def process_slug(slug: str):
 
 
 def main():
-    os.makedirs(OUT_DIR, exist_ok=True)
+    os.makedirs(os.path.join(OUT_DIR, "sql"), exist_ok=True)
 
     print("Fetching problem list from sitemap...")
     slugs = get_slugs()
@@ -198,7 +198,7 @@ def main():
             fname = fname[:-4] + f" - {slug}.sql"
             key = fname.lower()
         used_names.add(key)
-        with open(os.path.join(OUT_DIR, fname), "w", encoding="utf-8") as f:
+        with open(os.path.join(OUT_DIR, "sql", fname), "w", encoding="utf-8") as f:
             f.write(content)
         if not has_solution:
             no_solution += 1
@@ -217,7 +217,7 @@ def main():
     with open(META_FILE, "w", encoding="utf-8") as f:
         json.dump(meta, f, indent=2, ensure_ascii=False)
 
-    print(f"\nSaved {len(meta)} .sql files to {OUT_DIR}/")
+    print(f"\nSaved {len(meta)} .sql files to {OUT_DIR}/sql/")
     print(f"Metadata saved to {META_FILE}")
     print(f"Problems missing a canonical solution: {no_solution}")
 

@@ -130,14 +130,14 @@ def main():
     )
     spark.sparkContext.setLogLevel("ERROR")
 
-    py_files = sorted(f for f in os.listdir(DD_DIR) if f.endswith(".py"))
+    py_files = sorted(f for f in os.listdir(os.path.join(DD_DIR, "python")) if f.endswith(".py"))
     print(f"{len(py_files)} .py files to verify.\n")
 
     broken = []
     ok = 0
     for i, fname in enumerate(py_files, 1):
-        py_path = os.path.join(DD_DIR, fname)
-        sql_path = os.path.join(DD_DIR, fname[:-3] + ".sql")
+        py_path = os.path.join(DD_DIR, "python", fname)
+        sql_path = os.path.join(DD_DIR, "sql", fname[:-3] + ".sql")
         if not os.path.exists(sql_path):
             print(f"[{i:04}/{len(py_files)}] SKIP {fname}: no matching .sql file")
             continue

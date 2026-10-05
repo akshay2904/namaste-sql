@@ -196,8 +196,8 @@ def main():
 
     pending = []
     for m in targets:
-        sql_path = os.path.join(DD_DIR, m["filename"])
-        py_path = os.path.join(DD_DIR, py_filename(m["filename"]))
+        sql_path = os.path.join(DD_DIR, "sql", m["filename"])
+        py_path = os.path.join(DD_DIR, "python", py_filename(m["filename"]))
         if args.resume and os.path.exists(py_path):
             continue
         if not os.path.exists(sql_path):
